@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 898bca5ed4d3e6940902f05daa771888, type: 3}
+  m_Name: PlayerRun
+  m_EditorClassIdentifier: 
+  texture: {fileID: 2800000, guid: de79a2c448a404aa78d2ca7ee5d537b0, type: 3}
+  cells:
+  - {fileID: -2669519421662519664, guid: de79a2c448a404aa78d2ca7ee5d537b0, type: 3}
+  - {fileID: -1067686167382618453, guid: de79a2c448a404aa78d2ca7ee5d537b0, type: 3}
+  - {fileID: 122296940013803611, guid: de79a2c448a404aa78d2ca7ee5d537b0, type: 3}
+  - {fileID: 7773363543169797068, guid: de79a2c448a404aa78d2ca7ee5d537b0, type: 3}
+  - {fileID: -9083916486434266197, guid: de79a2c448a404aa78d2ca7ee5d537b0, type: 3}
+  - {fileID: -2565642988234688979, guid: de79a2c448a404aa78d2ca7ee5d537b0, type: 3}
+  frameRate: 12
+  rangeStart: 0
+  rangeEnd: 1
+  invertRange: 0
+  animationStyle: 0
+  looping: 1
+  transitions: []
